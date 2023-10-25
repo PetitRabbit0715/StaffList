@@ -9,7 +9,7 @@ XION_512
 alt_snst
 alt
 からあげ
-野良餅
+野良餅（nora_moti）
 akarakkuma_紅蜜柑
 だおう
 狐鈴ユウ
@@ -22,3 +22,4 @@ A-kun
 -pareo-
 B.L.T.S
 ポチョLOVE
+ciyul
